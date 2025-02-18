@@ -7,7 +7,9 @@ Hi, I'm Angel and I'm a student.
 ``` python
 print("Hello World!!")
 ```
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
